@@ -8,7 +8,7 @@ Begleitprojekt für Informatik 3 im Kurs TFE23-2 an der DHBW Ravensburg Campus F
 
 [![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/graugans/tfe23-2?quickstart=1)
 
-## Synchronisation des eignen Forks
+## Synchronisation des eigenen Forks
 
 Es wird davon ausgegangen, dass Sie einen Fork angelegt haben und von diesen geklont haben. Damit entspricht Ihr Fork der Bezeichnung ``origin``. Siehe hierzu auch die [Hinweise in der ersten Übungsaufgabe](exercise-001#upstream-hinzuf%C3%BCgen).
 
