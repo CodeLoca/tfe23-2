@@ -16,6 +16,7 @@ Um die aktuellen Änderungen in die lokale Kopie des ``tfe23-2`` Repository zu �
 
 ```sh
 git fetch upstream
+
 ```
 
 Nun checken wir die lokale Kopie des zu synchronisierenden Branches aus, in unserem Fall der ``main`` Branch. Dieser Schritt kann entfallen falls wir bereits schon auf dem ``main`` Branch sind. Das können Sie mit ``git branch -a`` prüfen.
